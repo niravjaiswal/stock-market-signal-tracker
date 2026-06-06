@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/tracker.db
+data/signals.jsonl
+.venv/
+venv/
+.pytest_cache/
