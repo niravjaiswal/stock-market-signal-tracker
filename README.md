@@ -1,5 +1,9 @@
 # Trump Market-Signal Tracker
 
+![Trump Says Buy, Stocks Fly — how much his picks gained](assets/trump-says-buy.png)
+
+*Why this exists: when Trump names a company, the stock often moves. INTC +414%, DELL +38%, MU +21% after he praised them (source: moomoo, May 2026). This tool catches those mentions in real time. Not financial advice.*
+
 Real-time tracker that listens to what Donald Trump says — on **Truth Social**, in
 **the news**, and at **press conferences** — detects any **publicly traded company**
 he mentions, uses **Claude** to judge whether he's positive or negative about it, and
